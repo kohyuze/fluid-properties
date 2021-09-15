@@ -1,4 +1,4 @@
-temp,satPressure,densityL,DensityV,enthalpyOfV,specHeatL,specHeatV,therCondL,therCondV,dynamicViscL,dynamicViscV,PrandtlL,PrandtlV,VEC
+temp,satPressure,densityL,densityV,enthalpyOfV,specHeatL,specHeatV,therCondL,therCondV,dynamicViscL,dynamicViscV,prandtlL,prandtlV,VEC
 0.01,0.6113,999.8,0.0048,2501,4217,1854,0.561,0.0171,0.001792,0.00000922,13.5,1,0.020068
 5,0.8721,999.9,0.0068,2490,4205,1857,0.571,0.0173,0.001519,0.00000934,11.2,1,0.000015
 10,1.2276,999.7,0.0094,2478,4194,1862,0.58,0.0176,0.001307,0.00000946,9.45,1,0.000733
